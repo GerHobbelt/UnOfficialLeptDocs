@@ -60,7 +60,7 @@ grown under the mask as far as possible.
 
 There are multiple names for this process. The graphics community uses
 the terms *seed fill* and *flood fill*, with a typical application
-being the filling of pixels within an outline for device indpendent
+being the filling of pixels within an outline for device independent
 graphics. The image morphology community calls it *binary
 reconstruction* (and *grayscale reconstruction*), with the primary
 application being image segmentation.
